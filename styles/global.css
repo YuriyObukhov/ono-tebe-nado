@@ -4,6 +4,14 @@
   box-sizing: border-box;
 }
 
+.address {
+	all: initial;
+}
+
+button {
+  all: unset;
+}
+
 body {
   min-width: 1100px;
   margin: 0;
@@ -32,3 +40,4 @@ a {
 img {
   width: 100%;
 }
+
